@@ -5,7 +5,7 @@ I doubt there is anything here you will find interesting.
 
 I mainly do small contributions to other repos, fixing language-related issues or adding/changing a minor feature.
 
-My main languages of choice would be Lua and C#, although I also know Java and JavaScript.
+My main languages of choice would be JavaScript/TypeScript, C#, and Lua, although I also know basic Java and have dabbled with Python in the past.
 
 I got into programming through the Minecraft mod named [ComputerCraft](https://github.com/dan200/ComputerCraft), made by [dan200](https://github.com/dan200).
 
